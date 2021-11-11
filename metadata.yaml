@@ -13,11 +13,11 @@ serial_number: "021"
 doc_id: "SITCOMTN-021"
 
 # Title of the document, without the series/serial designation
-doc_title: "AuxTel Tracking"
+doc_title: "Image Quality Team Report: A First Look at Auxiliary Telescope Tracking"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
-  - "Elana Urbach"
+  - "Christopher Stubbs, Elana Urbach"
 
 # Current document revision date, YYYY-MM-DD
 # Only set this field if you need to manually fix the revision date;
@@ -37,7 +37,7 @@ authors:
 copyright: "2021, Association of Universities for Research in Astronomy, Inc. (AURA)"
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: "Tracking"
+description: "This note addresses the extent to which telescope tracking imperfections contribute to image degradation. It looks at observations from the evenings of Nov 2-5 2021."
 
 # Abstract, if available
 # abstract: >
